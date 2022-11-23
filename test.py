@@ -9,7 +9,7 @@ from skimage.segmentation import mark_boundaries
 from skimage.util import img_as_float
 from skimage import io
 
-img = io.imread('images/log.jpg')
+img = io.imread('images/8.jpg')
 #img = io.imread('images/7.jpg')
 #img = img_as_float(astronaut()[::2, ::2])
 
